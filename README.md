@@ -1,13 +1,13 @@
-# _{Horiseon}_
+# _{Horiseon}
 
-#### By _**{Edward Beard}**_**
+#### By _**{Edward Beard}
 
 ###_{A Simple website for a marketing agency that follows accessibilty standards and optimized for search engines}
 
 ## Technologies Used
 
-*_HTML
-*_CSS
+*_HTML_
+*_CSS_
 
 ## Description
 
