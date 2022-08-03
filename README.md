@@ -2,12 +2,12 @@
 
 #### By Edward Beard
 
-###_{A Simple website for a marketing agency that follows accessibilty standards and optimized for search engines}
+### A Simple website for a marketing agency that follows accessibilty standards and optimized for search engines
 
 ## Technologies Used
 
-*_HTML_
-*_CSS_
+- HTML
+- CSS
 
 ## Description
 
