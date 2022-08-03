@@ -1,6 +1,6 @@
-# _{Horiseon}
+# Horiseon
 
-#### By _**{Edward Beard}
+#### By Edward Beard
 
 ###_{A Simple website for a marketing agency that follows accessibilty standards and optimized for search engines}
 
